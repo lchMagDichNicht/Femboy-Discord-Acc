@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for discord-bot-dyr7hw on 2026-05-19T22:16:00Z
+# fly.toml app configuration file generated for discord-bot-dyr7hw on 2026-05-19T22:29:59Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = 'discord-bot-dyr7hw'
-primary_region = 'iad'
+primary_region = 'arn'
 
 [build]
   builder = 'paketobuildpacks/builder:base'
